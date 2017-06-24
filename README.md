@@ -1,7 +1,7 @@
 # C-Sharp-Fundamentals
 My homework's of C Sharp Base course 
 
-## C# Fundamentals - 01. Introduction to Programming<br/><br/>
+## C# Fundamentals - 01. Introduction to Programming<br/>
 
     Task 04: Hello World!<br/>
     Task 06: Print Numbers<br/>
