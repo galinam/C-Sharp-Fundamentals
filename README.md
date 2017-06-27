@@ -32,3 +32,16 @@ My homework's of C Sharp Base course
     Task 13. Modify Bit
     Task 14. BitExchange
     Task 15. BitSwap
+
+## C# Fundamentals - 04. Console Input and Output<br/>
+
+    Task 01. Sum of 3 numbers
+    Task 02. Company Info
+    Task 03. Circle
+    Task 05. Numbers Comparer
+    Task 06. Quadratic Equation
+    Task 07. Sum of 5 numbers
+    Task 08. Numbers from 1 to N
+    Task 09. Sum of N Numbers
+    Task 10. Fibonacci Numbers
+    Task 11. Interval
