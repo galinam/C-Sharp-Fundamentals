@@ -45,3 +45,15 @@ My homework's of C Sharp Base course
     Task 09. Sum of N Numbers
     Task 10. Fibonacci Numbers
     Task 11. Interval
+
+## C# Fundamentals - 05. Conditional Statements<br/>
+    Task 01. Exchange If Greater
+    Task 02. Bonus Score
+    Task 03. Play Card
+    Task 04. Multiplication Sign
+    Task 05. Biggest of 3
+    Task 06. Biggest of 5
+    Task 07. Sort 3 Numbers
+    Task 08. Digit as Word
+    Task 09. Int, Double and String
+    
