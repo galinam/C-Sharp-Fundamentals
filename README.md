@@ -56,4 +56,23 @@ My homework's of C Sharp Base course
     Task 07. Sort 3 Numbers
     Task 08. Digit as Word
     Task 09. Int, Double and String
-    
+
+## C# Fundamentals - 06. Loops<br/>
+    Task 01. Numbers from 1 to N
+    Task 02. Not Divisible Numbers
+    Task 03. MMSA of N Numbers
+    Task 04. Print a Deck
+    Task 05. Calculate!
+    Task 06. Calculate Again!
+    Task 07. Calculate 3!
+    Task 08. Catalan Numbers
+    Task 09. Matrix of Numbers
+    Task 10. Odd and Even Product
+    Task 11. Binary to Decimal
+    Task 12. Decimal to Binary
+    Task 13. Decimal to Hex
+    Task 14. Hex to Decimal
+    Task 15. GCD
+    Task 16. Trailing 0 in N!
+    Task 17. Spiral Matrix
+   
