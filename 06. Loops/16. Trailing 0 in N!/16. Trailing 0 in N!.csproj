@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A56E8DF-DB10-46CA-BF43-6AB76714A663}</ProjectGuid>
+    <ProjectGuid>{E225C380-001D-4F7D-95CC-3749117304A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_09.Int__Double__String</RootNamespace>
-    <AssemblyName>_09.Int__Double__String</AssemblyName>
+    <RootNamespace>_16.Trailing_0_in_N_</RootNamespace>
+    <AssemblyName>_16.Trailing_0_in_N_</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
