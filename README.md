@@ -76,3 +76,20 @@ My homework's of C Sharp Base course
     Task 16. Trailing 0 in N!
     Task 17. Spiral Matrix
    
+## C# Fundamentals - 07. Arrays<br/>
+    Task 01. Allocate array
+    Task 02. Compare arrays
+    Task 03. Compare char arrays
+    Task 04. Maximal sequence
+    Task 05. Maximal increasing sequence
+    Task 06. Maximal K sum
+    Task 07. Selection sort
+    Task 08. Maximal sum
+    Task 09. Frequent number
+    Task 10. Binary search
+    Task 11. Index of letters
+    Task 12. Merge sort
+    Task 13. Quick sort
+    Task 14. Prime numbers
+    Task 15. Remove elements from array
+   
