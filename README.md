@@ -94,13 +94,13 @@ My homework's of C Sharp Base course
     Task 15. Remove elements from array
    
 ## C# Fundamentals - 11. Workshop Exam - 25 April 2016 / Telerik Academy Season 2016-2017<br/>
-   Task 01. Birds and Feathers
-   Task 02. Busses
-   Task 03. Number of Pages
-   Task 05. Bobi Avokadoto
+    Task 01. Birds and Feathers
+    Task 02. Busses
+    Task 03. Number of Pages
+    Task 05. Bobi Avokadoto
    
 ## C# Fundamentals - 12. Workshop Exam - 10 November 2016 / Telerik Academy Season 2016-2017<br/>
-   Task 01. Mythical numbers
-   Task 02. Jump, Jump
-   Task 03. Hidden Message
-   Task 04. Mixing numbers
+    Task 01. Mythical numbers
+    Task 02. Jump, Jump
+    Task 03. Hidden Message
+    Task 04. Mixing numbers
