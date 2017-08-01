@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Prime numbers", "15. Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Remove elements from array", "18. Remove elements from array\18. Remove elements from array.csproj", "{F86BC48C-75B8-44E3-8D5B-D144186A58C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Remove elements from array - LIS", "18. Remove elements from array - LIS\18. Remove elements from array - LIS.csproj", "{A56AEB39-4B17-455F-8117-49E0348F79D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F86BC48C-75B8-44E3-8D5B-D144186A58C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F86BC48C-75B8-44E3-8D5B-D144186A58C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F86BC48C-75B8-44E3-8D5B-D144186A58C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56AEB39-4B17-455F-8117-49E0348F79D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56AEB39-4B17-455F-8117-49E0348F79D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56AEB39-4B17-455F-8117-49E0348F79D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56AEB39-4B17-455F-8117-49E0348F79D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

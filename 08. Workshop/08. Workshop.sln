@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. Birds and Feathers", "Task 1. Birds and Feathers\Task 1. Birds and Feathers.csproj", "{3165BEF9-5FA6-49FF-B7C7-A58A0C03531F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2. Buses", "Task 2. Buses\Task 2. Buses.csproj", "{CCCF3506-4554-4DDA-9043-F7D8D058EEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3. Number of Pages", "Task 3. Number of Pages\Task 3. Number of Pages.csproj", "{779899F6-15CD-47E8-9EB7-2905FB895377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4. Batman", "Task 4. Batman\Task 4. Batman.csproj", "{6EBF48B2-1D68-4B77-B693-5329C3A06D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 5. Bobby Avokadoto", "Task 5. Bobby Avokadoto\Task 5. Bobby Avokadoto.csproj", "{70C69D83-7E39-4C4D-BE9A-5685E0568DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 5. Bobby Avokadoto - BITS", "Task 5. Bobby Avokadoto - BITS\Task 5. Bobby Avokadoto - BITS.csproj", "{668B51B2-D701-40B5-987D-5C9C4D88B369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3165BEF9-5FA6-49FF-B7C7-A58A0C03531F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3165BEF9-5FA6-49FF-B7C7-A58A0C03531F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3165BEF9-5FA6-49FF-B7C7-A58A0C03531F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3165BEF9-5FA6-49FF-B7C7-A58A0C03531F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCF3506-4554-4DDA-9043-F7D8D058EEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCF3506-4554-4DDA-9043-F7D8D058EEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCF3506-4554-4DDA-9043-F7D8D058EEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCF3506-4554-4DDA-9043-F7D8D058EEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779899F6-15CD-47E8-9EB7-2905FB895377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779899F6-15CD-47E8-9EB7-2905FB895377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779899F6-15CD-47E8-9EB7-2905FB895377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779899F6-15CD-47E8-9EB7-2905FB895377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBF48B2-1D68-4B77-B693-5329C3A06D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBF48B2-1D68-4B77-B693-5329C3A06D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBF48B2-1D68-4B77-B693-5329C3A06D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBF48B2-1D68-4B77-B693-5329C3A06D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C69D83-7E39-4C4D-BE9A-5685E0568DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C69D83-7E39-4C4D-BE9A-5685E0568DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C69D83-7E39-4C4D-BE9A-5685E0568DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C69D83-7E39-4C4D-BE9A-5685E0568DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668B51B2-D701-40B5-987D-5C9C4D88B369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B51B2-D701-40B5-987D-5C9C4D88B369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668B51B2-D701-40B5-987D-5C9C4D88B369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668B51B2-D701-40B5-987D-5C9C4D88B369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
