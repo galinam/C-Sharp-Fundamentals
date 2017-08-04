@@ -47,9 +47,9 @@ class Program
         /* Another way
         if ((head & comb) == 0)
         {
-            uint countOnesOfComb = 0;
+            uint countOnesOfComb = 0;                                                                       //uint currentComb = comb;
             for (int j = 0; j < 32 && ((comb >> j) > 0); j++) // or (comb >> j) != 0 ---> optimization      //while(curentComb > 0)
-            {                                                                                               //{ currentCount = curentCount & 1;
+            {                                                                                               //{ currentCount += (int)(curentComb & 1);
                 countOnesOfComb += (uint)(comb >> j) & 1; // take the bit at position j                     //  curentComb >>=1 }
             }
             if (maxOnesOfComb < countOnesOfComb)
